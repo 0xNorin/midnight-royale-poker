@@ -1,0 +1,63 @@
+{
+  "ansi": {
+    "color": "ANSI 24-bit RGB foreground/background",
+    "encoding": "UTF-8",
+    "glyph": "U+2580 UPPER HALF BLOCK",
+    "newline": "LF",
+    "row_reset": true
+  },
+  "color_fidelity": {
+    "ansi_color_modes": [
+      "truecolor"
+    ],
+    "decoded_ansi_rgb_sha256": "29f93c5c7d201cf2aee0a493e99fe04c8635f61243d06a362ead67aa3c0b5497",
+    "sample_rgb_sha256": "29f93c5c7d201cf2aee0a493e99fe04c8635f61243d06a362ead67aa3c0b5497",
+    "sample_to_ansi_exact": true
+  },
+  "preset": "candidate-lanczos-96",
+  "preview_notice": "Sample-grid preview only; actual terminal font rendering may differ.",
+  "renderer": "halfblock",
+  "sample_dimensions": {
+    "height": 144,
+    "width": 96
+  },
+  "settings": {
+    "background": [
+      0,
+      0,
+      0
+    ],
+    "cell_aspect": 2.0,
+    "chafa_symbols": null,
+    "color_space": "srgb",
+    "dither": "none",
+    "fit": "pad",
+    "grid_scale": 8,
+    "name": "candidate-lanczos-96",
+    "palette_colors": null,
+    "renderer": "halfblock",
+    "resize": "lanczos",
+    "sample_height": 144,
+    "sample_width": 96,
+    "sharpen": false,
+    "sharpen_percent": 50,
+    "sharpen_radius": 0.5,
+    "sharpen_threshold": 3
+  },
+  "source": "noura01.jpg",
+  "source_dimensions": {
+    "height": 2352,
+    "width": 1568
+  },
+  "source_format": "JPEG",
+  "source_has_icc_profile": false,
+  "source_has_transparency": false,
+  "source_mode": "RGB",
+  "source_sha256": "4f4f24fe405e72c1d75d2a90ab52a9e002c3fd9c3e11a32a854da53c47d86151",
+  "terminal_dimensions": {
+    "columns": 96,
+    "rows": 72
+  },
+  "tool": "midnight-image-tools",
+  "tool_version": "0.1.0"
+}

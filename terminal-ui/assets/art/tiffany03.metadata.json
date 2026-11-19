@@ -1,0 +1,63 @@
+{
+  "ansi": {
+    "color": "ANSI 24-bit RGB foreground/background",
+    "encoding": "UTF-8",
+    "glyph": "U+2580 UPPER HALF BLOCK",
+    "newline": "LF",
+    "row_reset": true
+  },
+  "color_fidelity": {
+    "ansi_color_modes": [
+      "truecolor"
+    ],
+    "decoded_ansi_rgb_sha256": "2cdfab9c58c52779a72b1540d6a5a521aaaa417ef5db0b27ff5bfaffe6dfdd33",
+    "sample_rgb_sha256": "2cdfab9c58c52779a72b1540d6a5a521aaaa417ef5db0b27ff5bfaffe6dfdd33",
+    "sample_to_ansi_exact": true
+  },
+  "preset": "candidate-lanczos-96",
+  "preview_notice": "Sample-grid preview only; actual terminal font rendering may differ.",
+  "renderer": "halfblock",
+  "sample_dimensions": {
+    "height": 144,
+    "width": 96
+  },
+  "settings": {
+    "background": [
+      0,
+      0,
+      0
+    ],
+    "cell_aspect": 2.0,
+    "chafa_symbols": null,
+    "color_space": "srgb",
+    "dither": "none",
+    "fit": "pad",
+    "grid_scale": 8,
+    "name": "candidate-lanczos-96",
+    "palette_colors": null,
+    "renderer": "halfblock",
+    "resize": "lanczos",
+    "sample_height": 144,
+    "sample_width": 96,
+    "sharpen": false,
+    "sharpen_percent": 50,
+    "sharpen_radius": 0.5,
+    "sharpen_threshold": 3
+  },
+  "source": "tiffany03.png",
+  "source_dimensions": {
+    "height": 1536,
+    "width": 1024
+  },
+  "source_format": "PNG",
+  "source_has_icc_profile": true,
+  "source_has_transparency": false,
+  "source_mode": "RGB",
+  "source_sha256": "73b590066ec7558a65528418b9a087d2c3a14a453cee460564b34c64d7764002",
+  "terminal_dimensions": {
+    "columns": 96,
+    "rows": 72
+  },
+  "tool": "midnight-image-tools",
+  "tool_version": "0.1.0"
+}

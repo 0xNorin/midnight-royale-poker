@@ -1,0 +1,63 @@
+{
+  "ansi": {
+    "color": "ANSI 24-bit RGB foreground/background",
+    "encoding": "UTF-8",
+    "glyph": "U+2580 UPPER HALF BLOCK",
+    "newline": "LF",
+    "row_reset": true
+  },
+  "color_fidelity": {
+    "ansi_color_modes": [
+      "truecolor"
+    ],
+    "decoded_ansi_rgb_sha256": "860f76dfcdab7d3b6426990eb3b0c7cf5b5af18fde91544edb4f6f7c71bfa5cb",
+    "sample_rgb_sha256": "860f76dfcdab7d3b6426990eb3b0c7cf5b5af18fde91544edb4f6f7c71bfa5cb",
+    "sample_to_ansi_exact": true
+  },
+  "preset": "candidate-lanczos-96",
+  "preview_notice": "Sample-grid preview only; actual terminal font rendering may differ.",
+  "renderer": "halfblock",
+  "sample_dimensions": {
+    "height": 144,
+    "width": 96
+  },
+  "settings": {
+    "background": [
+      0,
+      0,
+      0
+    ],
+    "cell_aspect": 2.0,
+    "chafa_symbols": null,
+    "color_space": "srgb",
+    "dither": "none",
+    "fit": "pad",
+    "grid_scale": 8,
+    "name": "candidate-lanczos-96",
+    "palette_colors": null,
+    "renderer": "halfblock",
+    "resize": "lanczos",
+    "sample_height": 144,
+    "sample_width": 96,
+    "sharpen": false,
+    "sharpen_percent": 50,
+    "sharpen_radius": 0.5,
+    "sharpen_threshold": 3
+  },
+  "source": "jenny01.png",
+  "source_dimensions": {
+    "height": 1536,
+    "width": 1024
+  },
+  "source_format": "PNG",
+  "source_has_icc_profile": true,
+  "source_has_transparency": false,
+  "source_mode": "RGB",
+  "source_sha256": "6100792ddcca6a75cd8e182e6ac16ad5dfe8914de964a6e3ef98e40dde55a5cd",
+  "terminal_dimensions": {
+    "columns": 96,
+    "rows": 72
+  },
+  "tool": "midnight-image-tools",
+  "tool_version": "0.1.0"
+}

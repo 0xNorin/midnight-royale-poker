@@ -1,0 +1,686 @@
+[
+  {
+    "name": "amy",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/amy_face.png",
+    "source_sha256": "7962fbc89c255202cc2aa9c8b5d4c7c0154a50a0c12f9acdc346eb5d36a4d72b",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "051dc2ef0ec624cfb45fb8fc57643e3cb17c0664265806beba160bd6b930fb02"
+  },
+  {
+    "name": "candy",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/candy_face.png",
+    "source_sha256": "5cd0f408afb308c4f2cff140ff4cc0249d4b8030d211bee2aac89f85ec041948",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "03475a84111f542dbcbb9502be0e712c7ea83ea9b2ef06b0fd9262df436ac7f8"
+  },
+  {
+    "name": "chloe",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/chloe_face.png",
+    "source_sha256": "551b5ae15d3d4ddc18a3b04096b43018abea4317bd3f52bc321e8393426405e1",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "dff242fc46658ffefa1a6a6213f5dcc7dd72969a65a04607af8e33ea921b4d86"
+  },
+  {
+    "name": "electra",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/electra_face.png",
+    "source_sha256": "ae111ec1e231a2afa59b69ad0a1f2b98f7ef473c06f75ebebab0c09fb7728173",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "e85fc401b4e125b6d358408186b1bf626253941433db188f17759579082584f5"
+  },
+  {
+    "name": "jenny",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/jenny_face.png",
+    "source_sha256": "3b19b8bb374194de926a16948d882b0b466ee7412039e92b1f8234c5fb5b0b93",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "d36d6a94f90008bdb4cbad46bacbbefc5eaf24134a1ec25d312d8ec5b6fb395b"
+  },
+  {
+    "name": "roxanne",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/roxanne_face.png",
+    "source_sha256": "20eb43cd947491a15d100674a17f9c77f374568473fc5632d6e6d3fd9aeeaa75",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "1d8bc6e2de34b64d48b0a854b737a5848ab2cf231ec7ef98bd41ccbe4c7e50ff"
+  },
+  {
+    "name": "ruby",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/ruby_face.png",
+    "source_sha256": "71c8f794b15a74c1ad9eed77fe72019f8cb3764ae6fabfd492cf66fa2b3ec2d1",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "d5fe7f218aa911f557c023f9ae3b37d3e68bef55b7d8556f115fdc25d34527b2"
+  },
+  {
+    "name": "scarlett",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/scarlett_face.png",
+    "source_sha256": "cc9d0c4255d54e1e371cb27287f442d6d9ba63709db1064ad6897da890d3d436",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "a76e19b315bbf47ec741f50a798364eada46fc937bd695bda79b70ad083b6bae"
+  },
+  {
+    "name": "sophie",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/sophie_face.png",
+    "source_sha256": "5a62a02136dd75b22df13bd85f9ee070c77f4bce04e2b40db21da67681006feb",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "708d7cacd1710fff2a67869b459d51d6d44e8cd411726227d0b38b0937606b53"
+  },
+  {
+    "name": "tiffany",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/tiffany_face.png",
+    "source_sha256": "e2758e2a175c2a212de6174fc58a86d8057b79df5ae4307c50a4ad8f6639d564",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "8142450fdfdc507b3a5e935bf33bdf36d03c54e1cae33b719487c781c29525a0"
+  },
+  {
+    "name": "vanessa",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/vanessa_face.png",
+    "source_sha256": "251e10650e19ce36a960de829f9c9602c65f297d7cac7abea190b71badf7fe11",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "3485152405ef633318b779e176b816da58988b1b3f05312ae198ac54cecc2c02"
+  },
+  {
+    "name": "victoria",
+    "collection": "grand-riviera-hotel",
+    "source": "../players/final-artwork/grand-riviera-hotel/victoria_face.png",
+    "source_sha256": "ffde22e5e2819d527efe66fb72f760c07340140ea2537e48aa6179e25d5e2023",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "08070ab57f6ccda7cb8bc5aab923895da31d026e579f559637f13a08bccc1ac4"
+  },
+  {
+    "name": "amber",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/amber_face.png",
+    "source_sha256": "3e9931dd7e272419abeb84f8fb80c5520d5d40e5c07ce97774d16cfdcc9f86a3",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "d8c63b624c6895fc0bf33b19bbee2268abfb8ae2e1ba64d8aef69777cbb62897"
+  },
+  {
+    "name": "bianca",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/bianca_face.png",
+    "source_sha256": "87a93c640d208ee56d8d4db2aaf6b5f9c64ddba5f8f2c933baba08d9af719bbf",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "fc98886f328aa83fbc155c66d78ee9989ebe4fbcac9cf52650aa89fa29b0a80f"
+  },
+  {
+    "name": "celeste",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/celeste_face.png",
+    "source_sha256": "08c4e5ec55407a9ba73b866c0cd7cd819b5822c6b91edc3b67570705bdaa2dc0",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "d1dd31b3cc969d364a6690342adf0e56619ea04a40c8bbcb1b15f9446d5d88d4"
+  },
+  {
+    "name": "elena",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/elena_face.png",
+    "source_sha256": "ae74bf34da594514bdc48569878644925d001266e3f559967e035371f99e878c",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "24da6f99000f77deee6eb0190dffe9c85b814c698f9447390d03f1d9ac8fe9dd"
+  },
+  {
+    "name": "leila",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/leila_face.png",
+    "source_sha256": "3a4d5dcba3dacbb76f7a68b888940abf4e5d5e58856f16110b639ecf98a741e0",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "5e0598970fc806c4598455c5cd891a2c92a78fabde61e36b3126d826ceccdfd3"
+  },
+  {
+    "name": "maren",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/maren_face.png",
+    "source_sha256": "76d342d1f59810f297a3fc6b5cccc750e6e98b5e44747bc3892008e96446f048",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "f2d75ff0cb145e984057794852d39d3c5d6098cb4f9f07a9dac7b150c47900e9"
+  },
+  {
+    "name": "marina",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/marina_face.png",
+    "source_sha256": "ad6b580b1efcf4a1b281767c95bd3258583809b5dbff72a4a959fbd6f55dab57",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "cd60f363b2f335064b5e4f800cb1d823b8a365afb1a5ab4484477c8dc8250e5e"
+  },
+  {
+    "name": "nadia",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/nadia_face.png",
+    "source_sha256": "58f7ecbed8af7ad3d71f7aa6118d7e0b93d3392f34cc8fe464e80e4dd8bf1345",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "4b9541669242787e6fdaed77137c115a433c39d16a177eaf35a1fc8189df2e38"
+  },
+  {
+    "name": "priya",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/priya_face.png",
+    "source_sha256": "f84b41e3eb0fb6a3559550b0e0ffe2e158457009d2511ca3fba378d48f29f21f",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "a834be0308eafcaf77d5a6937dd75010aadb3791d2e77ca8638d9ae326ad13bd"
+  },
+  {
+    "name": "simone",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/simone_face.png",
+    "source_sha256": "33a4e0a23974d77482ed2e4846636cd628805255c9cd655601ceff0a19fd2250",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "ea31fbad2163022591922dc8865ed7602dc5b74dc118f1cc11a0ad8b2597d124"
+  },
+  {
+    "name": "talia",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/talia_face.png",
+    "source_sha256": "3b59ed7d39105ffe6b744942e4ce04b45a76596e90e594fd1551890a426e5106",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "acce53d797966ccc0d670e727c51bd596f6ca8fd332607890f0e41ccd8151486"
+  },
+  {
+    "name": "vivienne",
+    "collection": "azure-palms-resort",
+    "source": "../players/final-artwork/azure-palms-resort/vivienne_face.png",
+    "source_sha256": "b9311339281ebdaa364b24545d0e6f0c33e79a913bfa14bc2ff73a3a69ec675c",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "8e3a6924d926fbde30c4314e9afad3bf38558042a452c60acd381a3440939693"
+  },
+  {
+    "name": "amara",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/amara_face.png",
+    "source_sha256": "90dcd085b89f11d2772b9b983ec2209acc56b7becdb49e59f41d168be56bfc24",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "3e6d3da6ee967de2cfc7ff522c805bc82efc028132285ad2be3a1875a9857667"
+  },
+  {
+    "name": "elise",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/elise_face.png",
+    "source_sha256": "3d8887230879586bb1b19beeb407099588dce0c395cc171e842d7214786619d7",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "6430e253785270386a297173a69a40494d91c2c6c7d98b81e830f3de0e28ab0b"
+  },
+  {
+    "name": "imani",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/imani_face.png",
+    "source_sha256": "271c3134635699721f4a356e68db2665a8fde7baea49abb081c27b02fe60600a",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "c43f4fd28530bde0411d0bae0f7de9c2018fc0cdb59aa9a65cce443086e72d23"
+  },
+  {
+    "name": "leona",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/leona_face.png",
+    "source_sha256": "677ebd72078aa636ec7d27178b9951063916844681f6c150b0cad1d0763bb6f6",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "556ac8449d60a73dc49a8979c5bce85e406c35d982fadb126c5b2c56b819f7f2"
+  },
+  {
+    "name": "lucia",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/luc\u00eda_face.png",
+    "source_sha256": "3e7fe91475787d17128d118b90de50eb78d4948221a8c152afe636070409c749",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "221bb6527dd1e64872814c9e781866a49ccbe1dff0e089513684c19f0d8579a3"
+  },
+  {
+    "name": "nadja",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/nadja_face.png",
+    "source_sha256": "fb6400576618e8d0209fd324da458db161ff2cb967244973c1b5659de2c4ae87",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "8f94ec9583204f0878610776302b83c36bb5d646d50df52051b0bf421dd1b8cf"
+  },
+  {
+    "name": "noura",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/noura_face.png",
+    "source_sha256": "0eff687f0c313bc310476a31afde7dd107ef521b705d388fab72fcd491b1b655",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "b34b139e27ff5cf995ac0f1f31b29b12eeeaccaef014e00994b1540201fbb1d6"
+  },
+  {
+    "name": "samira",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/samira_face.png",
+    "source_sha256": "c9d0129db3ed23e7fa7d7cea51ab24b1cb06c4bf6c315e18d43ac1a0f06e3468",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "72965463241bc11fb5aba7476dad74fb260176431cf59b67d329f7ad353e637e"
+  },
+  {
+    "name": "solveig",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/solveig_face.png",
+    "source_sha256": "cb9208017002191980ced17dd17c13fb38750d793d4d11b8d50f6f5dcab43c5d",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "b2b7b402369f4d8a2fe9aa7ac82af37dc820e791045cb236bf7c50bc3ba4ec94"
+  },
+  {
+    "name": "sora",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/sora_face.png",
+    "source_sha256": "ca19f49c2357185ae063e7b01aafc6775856d09559d4fcc564527f723404c746",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "cd32b1e91e887a6e021c813fe1618c0513953cc9465f6896a560f550bbad9f7d"
+  },
+  {
+    "name": "valentina",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/valentina_face.png",
+    "source_sha256": "3c440fb74e03793f62a061584587ba658d2c009969c4d94b6ff1be701482672a",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "510b598618d59cb4799b5b0426fa32bb9483d50adf9f6f36f5cd85bdb7a1c9d1"
+  },
+  {
+    "name": "yasmin",
+    "collection": "starlight-lodge",
+    "source": "starlight-lodge/yasmin_face.png",
+    "source_sha256": "9608c6c7d79ad8118cff79e6d6cb64b126f6655f9c41bf54d5968f81773ffba0",
+    "source_dimensions": {
+      "width": 456,
+      "height": 456
+    },
+    "samples": [
+      28,
+      28
+    ],
+    "terminal_cells": [
+      28,
+      14
+    ],
+    "sample_rgb_sha256": "8c09d2699d379330deb34df691597a35fc4f8b785cda3d10c0d16980c97f6f58"
+  }
+]

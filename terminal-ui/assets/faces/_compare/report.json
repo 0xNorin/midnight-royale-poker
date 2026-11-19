@@ -1,0 +1,218 @@
+[
+  {
+    "name": "amy",
+    "lanczos_bytes": 14209,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13420,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 13798,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "chloe",
+    "lanczos_bytes": 14082,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13321,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 13680,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "ruby",
+    "lanczos_bytes": 14474,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13686,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14044,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "jenny",
+    "lanczos_bytes": 14763,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13953,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14351,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "sophie",
+    "lanczos_bytes": 14902,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 14097,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14467,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "vanessa",
+    "lanczos_bytes": 14048,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13358,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 13693,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "candy",
+    "lanczos_bytes": 15195,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 14349,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14692,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "roxanne",
+    "lanczos_bytes": 14241,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13467,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 13838,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "tiffany",
+    "lanczos_bytes": 14639,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13879,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14270,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "scarlett",
+    "lanczos_bytes": 14096,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13314,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 13627,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "victoria",
+    "lanczos_bytes": 14485,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13733,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14079,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  },
+  {
+    "name": "electra",
+    "lanczos_bytes": 14573,
+    "lanczos_cells": [
+      28,
+      14
+    ],
+    "chafa_block_bytes": 13816,
+    "chafa_block_cells": [
+      34,
+      15
+    ],
+    "chafa_sextant_bytes": 14149,
+    "chafa_sextant_cells": [
+      34,
+      15
+    ]
+  }
+]
